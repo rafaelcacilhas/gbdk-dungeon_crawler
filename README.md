@@ -1,2 +1,4 @@
 An attempt of making a dungeon-crawler for Gameboy.
-<img width="672" height="677" alt="image" src="https://github.com/user-attachments/assets/31928c48-a31e-4080-9cde-6988480a1976" />
+
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/3da4fb88-5d08-423a-b15c-87c5831ca9a9" />
+
